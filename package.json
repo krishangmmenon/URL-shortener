@@ -6,9 +6,18 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishangmmenon/URL-shortener.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishangmmenon/URL-shortener/issues"
+  },
+  "homepage": "https://github.com/krishangmmenon/URL-shortener#readme",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "mongoose": "^8.19.3",
     "nodemon": "^3.1.10",
